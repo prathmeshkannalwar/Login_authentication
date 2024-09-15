@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043180940722",
+    "project_id": "rigorous-authentication",
+    "storage_bucket": "rigorous-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043180940722:android:6cddfba0aa32d02d4288ab",
+        "android_client_info": {
+          "package_name": "com.example.rigorousauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgA7hQC79M8Zfa3Tfketrf-MMdynQ5fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
